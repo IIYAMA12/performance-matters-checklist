@@ -34,15 +34,19 @@
     <summary>Page load frames</summary>
     <details>
         <summary>Mobile</summary>
+        <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.35.26.png" alt="State 1">
+        <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.36.16.png" alt="State 2">
+        <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.36.18.png" alt="State 3">
+        <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.36.50.png" alt="State 4">
+        <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.36.54.png" alt="State 5">
+    </details>
+    <details>
+        <summary>Laptop</summary>
         <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.40.33.png" alt="State 1">
         <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.42.18.png" alt="State 2">
         <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.42.21.png" alt="State 3">
         <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.42.52.png" alt="State 4">
         <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/slow-loading/mobile/Schermafbeelding 2018-03-13 om 14.42.55.png" alt="State 5">
-    </details>
-    <details>
-        <summary>Laptop</summary>
-
     </details>
 </details>
 
