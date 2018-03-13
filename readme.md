@@ -30,7 +30,16 @@
 
 ## Audits
 
-*   Add some more points here...
+<details>
+    <summary>Page load frames</summary>
+    <details>
+        <summary>Mobile</summary>
+    </details>
+    <details>
+        <summary>Laptop</summary>
+        <!-- <img src=> -->
+    </details>
+</details>
 
 ## HTTP optimisation
 
