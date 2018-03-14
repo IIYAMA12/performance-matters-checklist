@@ -79,8 +79,7 @@
 *   Add some more points here...
 
 ### CSS
-
-*   Add some more points here...
+*   Minify css
 
 ### HTML
 
