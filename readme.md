@@ -60,7 +60,7 @@
 
 ### HTTP/1
 
-*  
+*  Using as HTTP/2 might speed up the total download speed.
 
 ### HTTP/2
 
@@ -79,15 +79,15 @@
 *   Images with little detail and small colour pallet, are smaller and perform better with png format instead of jpg. If possible, use svg.
 
 ### CSS
-*   Minify css
+*   Minify CSS
 
 ### HTML
-
-*   Add some more points here...
+*   Minify HTML
 
 ### JavaScript
 
-*   Add some more points here...
+*   Minify JS
+
 
 ### Fonts
 * (some) Fonts maybe loaded later, since there are 11 requests for them.
@@ -95,19 +95,20 @@
 
 ## Perceived Performance
 
-*   Add some more points here...
+*   ...
 
 ## Performance
 
-*   Add some more points here...
+*   Reduce amount of classes and attributes in html
 
 ### Images
 
-*   Add some more points here...
+*   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
 
 ### CSS
 
-*   Add some more points here...
+*   Remove un-used CSS.
+*   Remove prefixes that are already global supported.
 
 ### HTML
 
@@ -115,12 +116,13 @@
 
 ### JavaScript
 
-*   Add some more points here...
+*   No jQuery
+*   
 
 ### Fonts
 
-*   Add some more points here...
+*   ...
 
 ## Backend optimisation
 
-*   Add some more points here...
+*   ...
