@@ -76,7 +76,7 @@
 
 ### Images
 
-*   Images with little detail with small colour pallet, are smaller and perform better with png format instead of jpg. If possible, use svg.
+*   Add some more points here...
 
 ### CSS
 *   Minify css
