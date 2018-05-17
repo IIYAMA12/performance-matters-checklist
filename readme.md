@@ -42,10 +42,6 @@
 ### Images
 
 ### CSS
-<<<<<<< HEAD
-*   Minify css
-=======
->>>>>>> parent of e978d18... Update readme.md
 
 ### HTML
 
