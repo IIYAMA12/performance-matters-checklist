@@ -56,11 +56,11 @@
     <summary>HTTP requests</summary>
     <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/requests/Screen Shot 2018-03-13 at 17.27.01.png" alt="State 5">
     <img src="https://iiyama12.github.io/performance-matters-checklist/readme-content/Webside-CMD-Amsterdam-performance-test/requests/Screen Shot 2018-03-13 at 17.27.32.png" alt="State 5">
-</details>
+</details>    
 
 ### HTTP/1
 
-*  
+*   
 
 ### HTTP/2
 
@@ -90,8 +90,8 @@
 *   Add some more points here...
 
 ### Fonts
-* (some) Fonts maybe loaded later, since there are 11 requests for them.
 
+*   Add some more points here...
 
 ## Perceived Performance
 
