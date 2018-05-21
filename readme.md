@@ -33,6 +33,8 @@
 
 ### HTTP/1
 
+*  Using as HTTP/2 might speed up the total download speed.
+
 ### HTTP/2
 
 ## Caching
