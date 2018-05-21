@@ -53,6 +53,8 @@
 
 ## Performance
 
+*   Reduce amount of classes and attributes in html
+
 ### Images
 
 ### CSS
