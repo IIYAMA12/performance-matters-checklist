@@ -46,6 +46,7 @@
 ### HTML
 
 *   Reduce HTML wrapper elements
+*   Minify HTML
 
 ### JavaScript
 
