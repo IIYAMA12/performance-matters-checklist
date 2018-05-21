@@ -49,6 +49,8 @@
 
 ### Fonts
 
+*   Load fonts last and use the swap css property to keep the text readable.
+
 ## Perceived Performance
 
 ## Performance
