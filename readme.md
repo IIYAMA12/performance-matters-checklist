@@ -47,6 +47,8 @@
 
 ### JavaScript
 
+*   Reduce function calls
+
 ### Fonts
 
 ## Perceived Performance
