@@ -64,3 +64,5 @@
 ### Fonts
 
 ## Backend optimisation
+
+*   Make use of buffers to reduce database requests.
