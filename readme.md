@@ -43,6 +43,8 @@
 
 ### CSS
 
+*   Minify CSS
+
 ### HTML
 
 ### JavaScript
