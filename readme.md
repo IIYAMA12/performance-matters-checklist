@@ -41,6 +41,8 @@
 
 ### Images
 
+*   Images with little detail and small colour pallet, are smaller and perform better with png format instead of jpg. If possible, use svg.
+
 ### CSS
 
 ### HTML
