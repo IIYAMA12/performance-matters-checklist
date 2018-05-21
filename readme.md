@@ -53,6 +53,8 @@
 
 ## Performance
 
+*   Reduce amount of classes and attributes in html
+
 ### Images
 
 *   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
