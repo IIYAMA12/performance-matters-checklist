@@ -90,3 +90,5 @@
 *   Do not use custom fonts if not needed.
 
 ## Backend optimisation
+
+*   Make use of buffers to reduce database requests.
