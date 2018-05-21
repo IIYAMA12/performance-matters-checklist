@@ -47,6 +47,8 @@
 
 ### JavaScript
 
+*   Minify JS
+
 ### Fonts
 
 ## Perceived Performance
