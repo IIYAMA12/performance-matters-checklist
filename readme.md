@@ -87,4 +87,6 @@
 
 ### Fonts
 
+*   Do not use custom fonts if not needed.
+
 ## Backend optimisation
