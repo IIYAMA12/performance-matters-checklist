@@ -57,6 +57,8 @@
 
 ### CSS
 
+*   Remove prefixes that are already global supported.
+
 ### HTML
 
 ### JavaScript
