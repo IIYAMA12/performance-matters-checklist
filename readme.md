@@ -45,6 +45,8 @@
 
 ### HTML
 
+*   Minify HTML
+
 ### JavaScript
 
 ### Fonts
