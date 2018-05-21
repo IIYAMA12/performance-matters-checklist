@@ -44,6 +44,7 @@
 ### CSS
 
 *   Reduce selectors
+*   Minify CSS
 
 ### HTML
 
