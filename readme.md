@@ -47,7 +47,11 @@
 
 ### JavaScript
 
+<<<<<<< HEAD
 *   Reduce function calls
+=======
+*   Minify JS
+>>>>>>> minify-js
 
 ### Fonts
 
