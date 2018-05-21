@@ -56,6 +56,7 @@
 ### Images
 
 ### CSS
+*   Remove un-used CSS.
 
 *   Remove prefixes that are already global supported.
 
