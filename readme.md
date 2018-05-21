@@ -43,6 +43,8 @@
 
 ### CSS
 
+*   Reduce selectors
+
 ### HTML
 
 ### JavaScript
