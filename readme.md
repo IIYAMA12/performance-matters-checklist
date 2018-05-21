@@ -55,6 +55,8 @@
 
 ### Images
 
+*   SVG's are smaller but they do not render always faster than other formats. Especially when they are very complex. Render speed is also included with the load time of content.
+
 ### CSS
 *   Remove un-used CSS.
 
