@@ -61,6 +61,8 @@
 
 ### JavaScript
 
+*   Remove jQuery
+
 ### Fonts
 
 ## Backend optimisation
