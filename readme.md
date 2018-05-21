@@ -45,6 +45,8 @@
 
 ### HTML
 
+*   Reduce HTML wrapper elements
+
 ### JavaScript
 
 <<<<<<< HEAD
